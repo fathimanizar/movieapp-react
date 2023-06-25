@@ -1,0 +1,21 @@
+.nav
+{
+background: #2D0202;
+background: linear-gradient(0deg, #2D0202, #0D0303);
+}
+.head
+{
+background: #2D0202;
+background: linear-gradient(180deg, #2D0202, #0D0303);
+}
+.active
+{
+    background-color: black;
+}
+.footer
+{
+background: #2D0202;
+background: linear-gradient(0deg, #2D0202, #0D0303);
+height:50px;
+}
+
